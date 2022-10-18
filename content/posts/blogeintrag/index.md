@@ -1,5 +1,5 @@
 +++
-title = "Blogeintrag"
+title = "Unter Zeitdruck"
 date = "2022-09-20"
 draft = false
 pinned = false
