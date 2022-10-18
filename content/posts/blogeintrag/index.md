@@ -5,6 +5,8 @@ draft = false
 pinned = false
 image = "ralph-hutter-xls4xsqmxte-unsplash-1-.jpg"
 +++
+![](ralph-hutter-xls4xsqmxte-unsplash-1-.jpg)
+
 W﻿ir haben angefangen mit einem Stand Up Meeting und alle haben präsentiert was ihre nächsten Schritten so sind.
 
 Leider ging es ein bisschen Länger als die anderen Stand Ups da das Interesse so sehr vorhanden war und es viele Fragen hatte.
